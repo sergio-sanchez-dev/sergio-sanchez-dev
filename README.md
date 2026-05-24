@@ -24,7 +24,7 @@ Trabajo bien en equipo pequeño y con autonomía.
 > **App real en producción** — no un proyecto de academia.
 > Desarrollada para CasaBlanca Inmobiliaria durante prácticas (marzo–mayo 2026).
 
-### 📱 [CasaBlanca Inmobiliaria App](https://github.com/TU-USERNAME/casablanca-inmobiliaria-app) `producción`
+### 📱 [CasaBlanca Inmobiliaria App](https://github.com/sergio-sanchez-dev/casablanca-inmobiliaria-app) `producción`
 
 App Android completa de gestión inmobiliaria en campo.
 Digitaliza el 100% del flujo de visitas, captaciones, ventas y contratos.
@@ -40,7 +40,7 @@ Digitaliza el 100% del flujo de visitas, captaciones, ventas y contratos.
 
 ---
 
-### 🚧 [Inmobiliaria App — Flutter](https://github.com/TU-USERNAME/inmobiliaria-flutter-app) `en progreso`
+### 🚧 [Inmobiliaria App — Flutter](https://github.com/sergio-sanchez-dev/inmobiliaria-flutter-app) `en progreso`
 
 Migración a Flutter de la app Android. Misma arquitectura, reescrita en Dart.
 
