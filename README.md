@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Sergio 👋
 
-<!--
-**sergio-sanchez-dev/sergio-sanchez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de DAM (2026)
+📱 Desarrollador de aplicaciones móviles Android
+🔥 Trabajando con Firebase, APIs REST y Java/Kotlin
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Android Studio
+* Java
+* Kotlin
+* Firebase
+* SQLite
+* REST APIs
+* Git & GitHub
+
+## Proyectos
+
+* App de gestión de tareas
+* Aplicación Android conectada a APIs REST
+* Proyectos académicos DAM
+
+## Contacto
+
+* LinkedIn: https://linkedin.com/in/sergiosanchezbermejo
